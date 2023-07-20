@@ -16,7 +16,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tAILWIND%20CSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=black)
 ![Google](https://img.shields.io/badge/Google%20ADS-green?style=for-the-badge&logo=googleads&logoColor=black)
   <div align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zcastlem&theme=dark"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=zcastlem&theme=highcontrast&hide_border=true&locale=pt_BR&background=49%2C2322EB%2CEB2E2E"/>
 </a>
 </div>
 
