@@ -11,6 +11,7 @@
   ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
   ![windows](https://img.shields.io/badge/-blue?style=flat-square&logo=windows)
   ![vscode](https://img.shields.io/badge/-grey?style=flat-square&logo=visual-studio-code)
+  ![TailwindCSS](https://img.shields.io/badge/-grey?style=flat-square&logo=tailwindcss)
   <div align="center">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zcastlem&theme=dark"/>
 </a>
