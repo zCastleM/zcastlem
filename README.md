@@ -1,5 +1,5 @@
-### Hi there 👋
-### Skills
+### Salve 👋
+### Habilidades
   
 ![HTML](https://img.shields.io/badge/HTML%205-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS%203-blue?style=for-the-badge&logo=css3&logoColor=white)
