@@ -12,6 +12,8 @@
 ![TailwindCSS](https://img.shields.io/badge/tAILWIND%20CSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=black)
   <div align="center">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zcastlem&theme=highcontrast&hide_border=true&locale=pt_BR&background=49%2C2322EB%2CEB2E2"/>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZCASTLEM&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+
 </a>
 </div>
 
