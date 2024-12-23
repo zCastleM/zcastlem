@@ -1,33 +1,57 @@
-### Salve 👋
-### Habilidades
-  
-![HTML](https://img.shields.io/badge/HTML%205-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS%203-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/NextJS-blue?style=for-the-badge&logo=next.js&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tAILWIND%20CSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=black)
-  <div align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=zcastlem&theme=highcontrast&hide_border=true&locale=pt_BR&background=49%2C2322EB%2CEB2E2"/>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZCASTLEM&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+# 👋 Olá, eu sou Mikael!
 
-</a>
-</div>
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=zCastleM&color=blue)
 
-<!--
-**zCastleM/zcastlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
 
-Here are some ideas to get you started:
+Sou um desenvolvedor de software apaixonado com grande interesse em desenvolvimento web, ciência de dados e contribuições para projetos open-source. Adoro explorar novas tecnologias e melhorar constantemente minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou aprendendo Next JS
+- 👯 Estou procurando colaborar em [Projeto ou Iniciativa Open Source]
+- 💬 Pergunte-me sobre qualquer coisa relacionada a Front-end
+- 📫 Como me encontrar: [mikaelmenardi@gmail.com](mailto:mikaelmenardi@gmail.com)
+
+## 🛠️ Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub de zCastleM](https://github-readme-stats.vercel.app/api?username=zCastleM&show_icons=true&theme=radical)
+
+## 🔗 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil-linkedin)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/seu-usuario-twitter)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-black?style=flat-square&logo=portfolio)](https://seu-site-portfolio.com)
+
+## 📚 Últimas Postagens no Blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Título da Sua Postagem no Blog](https://seu-link-blog.com)
+- [Outra Postagem no Blog](https://seu-link-blog.com)
+<!-- BLOG-POST-LIST:END -->
+
+## 🏆 Troféus do GitHub
+
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=zCastleM&theme=gruvbox)
+
+## 📊 Resumo Semanal de Desenvolvimento
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub de zCastleM](https://github-readme-stats.vercel.app/api?username=zCastleM&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=zCastleM&layout=compact&theme=radical)
+
+
+## 📊 Atividade de Commits
+
+![Commits de zCastleM](https://github-readme-streak-stats.herokuapp.com?user=zCastleM&theme=radical)
